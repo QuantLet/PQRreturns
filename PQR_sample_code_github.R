@@ -1,6 +1,6 @@
 library(xts)
 library(quantreg)
-library(rqpd)
+library(rqpd) #install.packages("rqpd", repos="http://R-Forge.R-project.org")
 library(fBasics)
 library(compiler)
 library(parallel)
